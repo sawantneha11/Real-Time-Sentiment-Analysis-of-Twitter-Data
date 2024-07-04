@@ -1,0 +1,9 @@
+
+tweepy
+pandas
+numpy
+nltk
+textblob
+flask
+plotly
+dash
